@@ -1,0 +1,19 @@
+.root{
+	-fx-background-fills: blueviolet;
+	-fx-background-image: url(../image/sky.jpg);
+}
+.button{
+	-fx-max-height: 50px;
+	-fx-max-width:100px;
+}
+.button:hover{
+	-fx-text-fill:gray;
+	-fx-scale-x:1.2;
+	-fx-scale-y:1.2;
+}
+#welcome-text{
+	-fx-font-size:34;
+	-fx-font-family:"Arial Black";
+	-fx-fill:#818181;
+	-fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.*?>
+<?import java.lang.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<Group fx:id="root" autoSizeChildren="true" stylesheets="css/MainView.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controler.MainViewControler">
+   <children>
+      <ImageView fitHeight="600.0" fitWidth="800.0" pickOnBounds="true" preserveRatio="true" styleClass="background" />
+      <Group fx:id="customer" layoutX="200.0" layoutY="175.0" styleClass="insideGroup">
+         <children>
+            <Circle centerX="50.0" centerY="50.0" radius="50.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0">
+               <fill>
+                  <RadialGradient centerX="0.5" centerY="0.5" radius="0.5">
+                     <stops>
+                        <Stop color="TRANSPARENT" />
+                        <Stop color="TRANSPARENT" offset="0.00749063670411985" />
+                        <Stop color="#1fffd24c" offset="1.0" />
+                     </stops>
+                  </RadialGradient>
+               </fill>
+               <rotationAxis>
+                  <Point3D />
+               </rotationAxis>
+            </Circle>
+            <Text layoutX="26.0" layoutY="55.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="客户管理" />
+         </children>
+      </Group>
+      <Group fx:id="grogshop" layoutX="350.0" layoutY="175.0" styleClass="insideGroup">
+         <children>
+            <Circle centerX="50.0" centerY="50.0" radius="50.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0">
+               <fill>
+                  <RadialGradient centerX="0.5" centerY="0.5" radius="0.5">
+                     <stops>
+                        <Stop color="TRANSPARENT" />
+                        <Stop color="TRANSPARENT" offset="0.00749063670411985" />
+                        <Stop color="#1fffd24c" offset="1.0" />
+                     </stops>
+                  </RadialGradient>
+               </fill>
+               <rotationAxis>
+                  <Point3D />
+               </rotationAxis>
+            </Circle>
+            <Text layoutX="26.0" layoutY="55.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="酒店管理" />
+         </children>
+      </Group>
+      <Group fx:id="netmarketing" layoutX="500.0" layoutY="175.0" styleClass="insideGroup">
+         <children>
+            <Circle centerX="50.0" centerY="50.0" radius="50.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0">
+               <fill>
+                  <RadialGradient centerX="0.5" centerY="0.5" radius="0.5">
+                     <stops>
+                        <Stop color="TRANSPARENT" />
+                        <Stop color="TRANSPARENT" offset="0.00749063670411985" />
+                        <Stop color="#1fffd24c" offset="1.0" />
+                     </stops>
+                  </RadialGradient>
+               </fill>
+               <rotationAxis>
+                  <Point3D />
+               </rotationAxis>
+            </Circle>
+            <Text layoutX="26.0" layoutY="47.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="网站营销人员管理" textOrigin="CENTER" wrappingWidth="48.0" />
+         </children>
+      </Group>
+      <Group fx:id="password" layoutX="275.0" layoutY="325.0" styleClass="insideGroup">
+         <children>
+            <Circle centerX="50.0" centerY="50.0" radius="50.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0">
+               <fill>
+                  <RadialGradient centerX="0.5" centerY="0.5" radius="0.5">
+                     <stops>
+                        <Stop color="TRANSPARENT" />
+                        <Stop color="TRANSPARENT" offset="0.00749063670411985" />
+                        <Stop color="#1fffd24c" offset="1.0" />
+                     </stops>
+                  </RadialGradient>
+               </fill>
+               <rotationAxis>
+                  <Point3D />
+               </rotationAxis>
+            </Circle>
+            <Text layoutX="26.0" layoutY="50.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="设置" textOrigin="CENTER" />
+         </children>
+      </Group>
+      <Group fx:id="exit" layoutX="425.0" layoutY="325.0" styleClass="insideGroup">
+         <children>
+            <Circle centerX="50.0" centerY="50.0" radius="50.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0">
+               <fill>
+                  <RadialGradient centerX="0.5" centerY="0.5" radius="0.5">
+                     <stops>
+                        <Stop color="TRANSPARENT" />
+                        <Stop color="TRANSPARENT" offset="0.00749063670411985" />
+                        <Stop color="#1fffd24c" offset="1.0" />
+                     </stops>
+                  </RadialGradient>
+               </fill>
+               <rotationAxis>
+                  <Point3D />
+               </rotationAxis>
+            </Circle>
+            <Text layoutX="38.0" layoutY="55.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="退出" />
+         </children>
+      </Group>
+      <Group fx:id="add" layoutX="200.0" layoutY="-200.0" styleClass="insideGroup">
+         <children>
+            <Circle centerX="50.0" centerY="50.0" radius="50.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0">
+               <fill>
+                  <RadialGradient centerX="0.5" centerY="0.5" radius="0.5">
+                     <stops>
+                        <Stop color="TRANSPARENT" />
+                        <Stop color="TRANSPARENT" offset="0.00749063670411985" />
+                        <Stop color="#1fffd24c" offset="1.0" />
+                     </stops>
+                  </RadialGradient>
+               </fill>
+               <rotationAxis>
+                  <Point3D />
+               </rotationAxis>
+            </Circle>
+            <Text layoutX="26.0" layoutY="55.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="text" text="添加" />
+         </children>
+      </Group>
+   </children>
+</Group>

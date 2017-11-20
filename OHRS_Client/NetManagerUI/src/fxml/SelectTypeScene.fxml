@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<HBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="200.0" minWidth="300.0" prefHeight="200.0" prefWidth="300.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controler.SelectTypeControler" stylesheets="css/button.css">
+   <children>
+      <Button mnemonicParsing="false" onAction="#handleCustomer" text="客户" />
+      <Button mnemonicParsing="false" onAction="#handleGrogshop" text="酒店工作人员" />
+      <Button mnemonicParsing="false" onAction="#handleNetmarketing" text="网站营销人员" />
+   </children>
+   <padding>
+      <Insets bottom="30.0" left="20.0" right="20.0" top="30.0" />
+   </padding>
+</HBox>

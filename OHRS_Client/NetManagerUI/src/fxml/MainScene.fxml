@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="700.0" minWidth="1000.0" prefHeight="700.0" prefWidth="1000.0" stylesheets="css/button.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controler.MainControler">
+   <top>
+      <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="100.0" BorderPane.alignment="CENTER">
+         <children>
+            <ComboBox fx:id="type" onAction="#handleTypeComboBox" prefWidth="150.0" promptText="用户类型" />
+            <Button minWidth="80.0" mnemonicParsing="false" onAction="#handModifyButton" prefWidth="100.0" text="修改密码" />
+            <Button minWidth="80.0" mnemonicParsing="false" onAction="#handleAddButton" prefWidth="100.0" text="添加" />
+            <Button minWidth="80.0" mnemonicParsing="false" onAction="#handleExitButton" prefWidth="100.0" text="退出" />
+         </children>
+         <BorderPane.margin>
+            <Insets />
+         </BorderPane.margin>
+      </HBox>
+   </top>
+   <center>
+      <ListView fx:id="listView" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER" />
+   </center>
+   <padding>
+      <Insets bottom="50.0" left="50.0" right="50.0" top="50.0" />
+   </padding>
+</BorderPane>

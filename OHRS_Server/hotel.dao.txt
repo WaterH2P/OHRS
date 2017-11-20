@@ -1,0 +1,65 @@
+auto_increment primary key
+
+CREATE DATABASE hotel DEFAULT CHARACTER SET utf8;
+
+create table hotelinfor(
+name char(15) not null ,
+hotelid char(10) not null,
+tradearea char(10) not null,
+level tinyint unsigned not null,
+tel char(11) not null,
+address char(40) not null,
+introduction char(100),
+LDP int unsigned not null,
+LDN int unsigned not null,
+LSP int unsigned not null,
+LSN int unsigned not null,
+SDP int unsigned not null,
+SDN int unsigned not null,
+SSP int unsigned not null,
+SSN int unsigned not null,
+FP int unsigned not null,
+FN int unsigned not null
+)ENGINE=InnoDB  DEFAULT CHARSET=utf8;
+
+create table register(
+hotelid char(10) not null,
+password char(15) not null
+)ENGINE=InnoDB  DEFAULT CHARSET=utf8;
+
+create table busyroom(
+hotelid char(10) not null,
+LDR int unsigned not null,
+LDO int unsigned not null,
+LSR int unsigned not null,
+LSO int unsigned not null,
+SDR int unsigned not null,
+SDO int unsigned not null,
+SSR int unsigned not null,
+SSO int unsigned not null,
+FR int unsigned not null,
+FO int unsigned not null
+)ENGINE=InnoDB  DEFAULT CHARSET=utf8;
+
+create table promotion(
+hotelid char(10) not null,
+promid char(30) not null, 
+name char(14) not null,
+kind tinyint unsigned not null,
+discount tinyint unsigned,
+introduction char(40)
+)ENGINE=InnoDB  DEFAULT CHARSET=utf8;
+
+create table promTime(
+begintime char(20) not null,
+finishtime char(20) not null, 
+discount tinyint unsigned not null
+)ENGINE=InnoDB  DEFAULT CHARSET=utf8;
+
+create table promVIP(
+vipbegin char(3) not null,
+vipfinish char(3) not null,
+tradearea char(10) not null,
+discount tinyint unsigned not null
+)ENGINE=InnoDB  DEFAULT CHARSET=utf8;
+comimit
