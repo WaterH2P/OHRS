@@ -1,0 +1,78 @@
+1.	命名 package 时没有保持大小写统一。
+
+2.	src/Remote/Server/OdServerForHotel.java:26:	Rather than using a lot of String arguments, consider using a container object for those values.
+
+	代码: public boolean executeOd(String accredit, String hotelid, String OdID, int value, String time)throws RemoteException;
+
+3.	注释与 JavaDoc 不符合
+
+4.	src/controller/view_controller_hotelInfor.java:9:	Each class should declare at least one constructor
+
+	public class view_controller_hotelInfor {
+	
+		public boolean editHotelInfor(String accredit, HotelInforvo inforvo){
+			try{
+				return RMIClient.getInstance().gethotelServe().editinfor(accredit, inforvo);
+			}catch (RemoteException e1){
+				e1.printStackTrace();
+			}catch (Exception e2){
+				e2.printStackTrace();
+			}
+			return false;
+		}
+		
+		public boolean editbusyroominfor(String accredit, Busyroomvo busyroomvo){
+			try{
+				return RMIClient.getInstance().gethotelServe().editbusyroominfor(accredit, busyroomvo);
+			}catch (RemoteException e1){
+				e1.printStackTrace();
+			}catch (Exception e2){
+				e2.printStackTrace();
+			}
+			return false;
+		}
+	}
+
+5.	src/controller/view_controller_hotelInfor.java:13:	A method should have only one exit point, and that should be the last statement in the method
+
+	public boolean editHotelInfor(String accredit, HotelInforvo inforvo){
+		try{
+			return RMIClient.getInstance().gethotelServe().editinfor(accredit, inforvo);
+		}catch (RemoteException e1){
+			e1.printStackTrace();
+		}catch (Exception e2){
+			e2.printStackTrace();
+		}
+		return false;
+	}
+
+6.	src/controller/view_controller_hotelInfor.java:13:	Potential violation of Law of Demeter (method chain calls)
+
+	public boolean editHotelInfor(String accredit, HotelInforvo inforvo){
+		try{
+			return RMIClient.getInstance().gethotelServe().editinfor(accredit, inforvo);	// 违反 Demeter 法则
+		}catch (RemoteException e1){
+			e1.printStackTrace();
+		}catch (Exception e2){
+			e2.printStackTrace();
+		}
+		return false;
+	}
+
+7.	src/controller/view_controller_hotelInfor.java:15:	Avoid printStackTrace(); use a logger call instead.
+
+	public boolean editHotelInfor(String accredit, HotelInforvo inforvo){
+		try{
+			return RMIClient.getInstance().gethotelServe().editinfor(accredit, inforvo);	// 违反 Demeter 法则
+		}catch (RemoteException e1){
+			e1.printStackTrace();		// 避免使用 printStackTrace();
+		}catch (Exception e2){
+			e2.printStackTrace();		// 避免使用 printStackTrace();
+		}
+		return false;
+	}
+
+8.	src/controller/view_controller_hotelLogin.java:11:	Private field 'vhsL' could be made final; it is only initialized in the declaration or constructor.
+
+	private view_hotelserve_login vhsL = new view_hotelbl_login();		// 只赋值一次的变量应该使用 final 关键词
+

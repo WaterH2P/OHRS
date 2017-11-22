@@ -1,0 +1,934 @@
+src/Remote/Server/ClientServerForWebpromotion.java:1:	Package name contains upper case characters
+src/Remote/Server/ClientServerForWebpromotion.java:5:	headerCommentRequirement Required
+src/Remote/Server/HotelServerCommon.java:1:	Package name contains upper case characters
+src/Remote/Server/HotelServerCommon.java:7:	headerCommentRequirement Required
+src/Remote/Server/HotelServerCommon.java:9:	Avoid modifiers which are implied by the context
+src/Remote/Server/HotelServerCommon.java:9:	Avoid using implementation types like 'Vector'; use the interface instead
+src/Remote/Server/HotelServerCommon.java:9:	Consider replacing this Vector with the newer java.util.List
+src/Remote/Server/HotelServerCommon.java:9:	publicMethodCommentRequirement Required
+src/Remote/Server/HotelServerForHotel.java:1:	Package name contains upper case characters
+src/Remote/Server/HotelServerForHotel.java:9:	headerCommentRequirement Required
+src/Remote/Server/HotelServerForHotel.java:16:	Avoid modifiers which are implied by the context
+src/Remote/Server/HotelServerForHotel.java:16:	publicMethodCommentRequirement Required
+src/Remote/Server/HotelServerForHotel.java:23:	Avoid modifiers which are implied by the context
+src/Remote/Server/HotelServerForHotel.java:23:	Avoid variables with short names like id
+src/Remote/Server/HotelServerForHotel.java:23:	publicMethodCommentRequirement Required
+src/Remote/Server/HotelServerForHotel.java:28:	Avoid modifiers which are implied by the context
+src/Remote/Server/HotelServerForHotel.java:28:	publicMethodCommentRequirement Required
+src/Remote/Server/HotelServerForHotel.java:33:	Avoid modifiers which are implied by the context
+src/Remote/Server/HotelServerForHotel.java:33:	publicMethodCommentRequirement Required
+src/Remote/Server/HotelServerForHotel.java:39:	Avoid modifiers which are implied by the context
+src/Remote/Server/HotelServerForHotel.java:39:	publicMethodCommentRequirement Required
+src/Remote/Server/HotelServerForHotel.java:46:	Avoid modifiers which are implied by the context
+src/Remote/Server/HotelServerForHotel.java:46:	publicMethodCommentRequirement Required
+src/Remote/Server/HotelServerForHotel.java:51:	Avoid modifiers which are implied by the context
+src/Remote/Server/HotelServerForHotel.java:51:	publicMethodCommentRequirement Required
+src/Remote/Server/HotelServerForHotel.java:56:	Avoid modifiers which are implied by the context
+src/Remote/Server/HotelServerForHotel.java:56:	publicMethodCommentRequirement Required
+src/Remote/Server/OdServerForHotel.java:1:	Package name contains upper case characters
+src/Remote/Server/OdServerForHotel.java:9:	headerCommentRequirement Required
+src/Remote/Server/OdServerForHotel.java:13:	Avoid modifiers which are implied by the context
+src/Remote/Server/OdServerForHotel.java:13:	Avoid using implementation types like 'Vector'; use the interface instead
+src/Remote/Server/OdServerForHotel.java:13:	Consider replacing this Vector with the newer java.util.List
+src/Remote/Server/OdServerForHotel.java:13:	publicMethodCommentRequirement Required
+src/Remote/Server/OdServerForHotel.java:20:	Avoid modifiers which are implied by the context
+src/Remote/Server/OdServerForHotel.java:20:	publicMethodCommentRequirement Required
+src/Remote/Server/OdServerForHotel.java:26:	Avoid modifiers which are implied by the context
+src/Remote/Server/OdServerForHotel.java:26:	Rather than using a lot of String arguments, consider using a container object for those values.
+src/Remote/Server/OdServerForHotel.java:26:	publicMethodCommentRequirement Required
+src/Remote/Server/OdServerForHotel.java:31:	Avoid modifiers which are implied by the context
+src/Remote/Server/OdServerForHotel.java:31:	publicMethodCommentRequirement Required
+src/Remote/Server/OdServerForWebpromotion.java:1:	Package name contains upper case characters
+src/Remote/Server/OdServerForWebpromotion.java:5:	headerCommentRequirement Required
+src/Remote/Server/PromServerForClient.java:1:	Package name contains upper case characters
+src/Remote/Server/PromServerForClient.java:5:	headerCommentRequirement Required
+src/Remote/Server/PromServerForHotel.java:1:	Package name contains upper case characters
+src/Remote/Server/PromServerForHotel.java:9:	headerCommentRequirement Required
+src/Remote/Server/PromServerForHotel.java:16:	Avoid modifiers which are implied by the context
+src/Remote/Server/PromServerForHotel.java:16:	publicMethodCommentRequirement Required
+src/Remote/Server/PromServerForHotel.java:23:	Avoid modifiers which are implied by the context
+src/Remote/Server/PromServerForHotel.java:23:	Avoid using implementation types like 'Vector'; use the interface instead
+src/Remote/Server/PromServerForHotel.java:23:	Consider replacing this Vector with the newer java.util.List
+src/Remote/Server/PromServerForHotel.java:23:	publicMethodCommentRequirement Required
+src/Remote/Server/PromServerForHotel.java:28:	Avoid modifiers which are implied by the context
+src/Remote/Server/PromServerForHotel.java:28:	publicMethodCommentRequirement Required
+src/Remote/Server/PromServerForHotel.java:33:	Avoid modifiers which are implied by the context
+src/Remote/Server/PromServerForHotel.java:33:	publicMethodCommentRequirement Required
+src/Remote/Server/PromServerForWebpromotion.java:1:	Package name contains upper case characters
+src/Remote/Server/PromServerForWebpromotion.java:5:	headerCommentRequirement Required
+src/controller/view_controller_hotelInfor.java:9:	Each class should declare at least one constructor
+src/controller/view_controller_hotelInfor.java:9:	headerCommentRequirement Required
+src/controller/view_controller_hotelInfor.java:11:	Parameter 'accredit' is not assigned and could be declared final
+src/controller/view_controller_hotelInfor.java:11:	Parameter 'inforvo' is not assigned and could be declared final
+src/controller/view_controller_hotelInfor.java:11:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelInfor.java:13:	A method should have only one exit point, and that should be the last statement in the method
+src/controller/view_controller_hotelInfor.java:13:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelInfor.java:13:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelInfor.java:15:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelInfor.java:16:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/controller/view_controller_hotelInfor.java:17:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelInfor.java:22:	Parameter 'accredit' is not assigned and could be declared final
+src/controller/view_controller_hotelInfor.java:22:	Parameter 'busyroomvo' is not assigned and could be declared final
+src/controller/view_controller_hotelInfor.java:22:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelInfor.java:24:	A method should have only one exit point, and that should be the last statement in the method
+src/controller/view_controller_hotelInfor.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelInfor.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelInfor.java:26:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelInfor.java:27:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/controller/view_controller_hotelInfor.java:28:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelLogin.java:9:	Each class should declare at least one constructor
+src/controller/view_controller_hotelLogin.java:9:	headerCommentRequirement Required
+src/controller/view_controller_hotelLogin.java:11:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/controller/view_controller_hotelLogin.java:11:	Private field 'vhsL' could be made final; it is only initialized in the declaration or constructor.
+src/controller/view_controller_hotelLogin.java:11:	fieldCommentRequirement Required
+src/controller/view_controller_hotelLogin.java:13:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelLogin.java:17:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelLogin.java:21:	Avoid variables with short names like id
+src/controller/view_controller_hotelLogin.java:21:	Parameter 'id' is not assigned and could be declared final
+src/controller/view_controller_hotelLogin.java:21:	Parameter 'password' is not assigned and could be declared final
+src/controller/view_controller_hotelLogin.java:21:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelLogin.java:22:	Found 'DD'-anomaly for variable 'accredit' (lines '22'-'24').
+src/controller/view_controller_hotelLogin.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelLogin.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelLogin.java:25:	A method should have only one exit point, and that should be the last statement in the method
+src/controller/view_controller_hotelLogin.java:27:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelLogin.java:28:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/controller/view_controller_hotelLogin.java:29:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelOd.java:11:	Each class should declare at least one constructor
+src/controller/view_controller_hotelOd.java:11:	headerCommentRequirement Required
+src/controller/view_controller_hotelOd.java:13:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/controller/view_controller_hotelOd.java:13:	Private field 'vhsO' could be made final; it is only initialized in the declaration or constructor.
+src/controller/view_controller_hotelOd.java:13:	fieldCommentRequirement Required
+src/controller/view_controller_hotelOd.java:15:	Avoid using implementation types like 'Vector'; use the interface instead
+src/controller/view_controller_hotelOd.java:15:	Consider replacing this Vector with the newer java.util.List
+src/controller/view_controller_hotelOd.java:15:	Parameter 'accredit' is not assigned and could be declared final
+src/controller/view_controller_hotelOd.java:15:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelOd.java:16:	Consider replacing this Vector with the newer java.util.List
+src/controller/view_controller_hotelOd.java:16:	Found 'DD'-anomaly for variable 'ods' (lines '16'-'18').
+src/controller/view_controller_hotelOd.java:16:	Use ArrayList instead of Vector
+src/controller/view_controller_hotelOd.java:18:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelOd.java:18:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelOd.java:20:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelOd.java:21:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/controller/view_controller_hotelOd.java:22:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelOd.java:27:	Parameter 'odvo' is not assigned and could be declared final
+src/controller/view_controller_hotelOd.java:27:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelOd.java:31:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelOd.java:35:	Parameter 'OdID' is not assigned and could be declared final
+src/controller/view_controller_hotelOd.java:35:	Parameter 'accredit' is not assigned and could be declared final
+src/controller/view_controller_hotelOd.java:35:	Parameter 'hotelid' is not assigned and could be declared final
+src/controller/view_controller_hotelOd.java:35:	Parameter 'value' is not assigned and could be declared final
+src/controller/view_controller_hotelOd.java:35:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelOd.java:37:	A method should have only one exit point, and that should be the last statement in the method
+src/controller/view_controller_hotelOd.java:37:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelOd.java:37:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelOd.java:39:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelOd.java:40:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/controller/view_controller_hotelOd.java:41:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelOd.java:46:	Parameter 'OdID' is not assigned and could be declared final
+src/controller/view_controller_hotelOd.java:46:	Parameter 'accredit' is not assigned and could be declared final
+src/controller/view_controller_hotelOd.java:46:	Parameter 'hotelid' is not assigned and could be declared final
+src/controller/view_controller_hotelOd.java:46:	Parameter 'time' is not assigned and could be declared final
+src/controller/view_controller_hotelOd.java:46:	Parameter 'value' is not assigned and could be declared final
+src/controller/view_controller_hotelOd.java:46:	Rather than using a lot of String arguments, consider using a container object for those values.
+src/controller/view_controller_hotelOd.java:46:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelOd.java:48:	A method should have only one exit point, and that should be the last statement in the method
+src/controller/view_controller_hotelOd.java:48:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelOd.java:48:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelOd.java:50:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelOd.java:51:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/controller/view_controller_hotelOd.java:52:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelOd.java:57:	Parameter 'OdID' is not assigned and could be declared final
+src/controller/view_controller_hotelOd.java:57:	Parameter 'accredit' is not assigned and could be declared final
+src/controller/view_controller_hotelOd.java:57:	Parameter 'hotelid' is not assigned and could be declared final
+src/controller/view_controller_hotelOd.java:57:	Parameter 'value' is not assigned and could be declared final
+src/controller/view_controller_hotelOd.java:57:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelOd.java:59:	A method should have only one exit point, and that should be the last statement in the method
+src/controller/view_controller_hotelOd.java:59:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelOd.java:59:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelOd.java:61:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelOd.java:62:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/controller/view_controller_hotelOd.java:63:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelProm.java:11:	Each class should declare at least one constructor
+src/controller/view_controller_hotelProm.java:11:	headerCommentRequirement Required
+src/controller/view_controller_hotelProm.java:13:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/controller/view_controller_hotelProm.java:13:	Private field 'vhsP' could be made final; it is only initialized in the declaration or constructor.
+src/controller/view_controller_hotelProm.java:13:	fieldCommentRequirement Required
+src/controller/view_controller_hotelProm.java:15:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelProm.java:19:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelProm.java:23:	Parameter 'accredit' is not assigned and could be declared final
+src/controller/view_controller_hotelProm.java:23:	Parameter 'promvo' is not assigned and could be declared final
+src/controller/view_controller_hotelProm.java:23:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelProm.java:25:	A method should have only one exit point, and that should be the last statement in the method
+src/controller/view_controller_hotelProm.java:25:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelProm.java:25:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelProm.java:27:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelProm.java:28:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/controller/view_controller_hotelProm.java:29:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelProm.java:34:	Avoid using implementation types like 'Vector'; use the interface instead
+src/controller/view_controller_hotelProm.java:34:	Consider replacing this Vector with the newer java.util.List
+src/controller/view_controller_hotelProm.java:34:	Parameter 'hotelid' is not assigned and could be declared final
+src/controller/view_controller_hotelProm.java:34:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelProm.java:35:	Consider replacing this Vector with the newer java.util.List
+src/controller/view_controller_hotelProm.java:35:	Found 'DD'-anomaly for variable 'proms' (lines '35'-'37').
+src/controller/view_controller_hotelProm.java:35:	Use ArrayList instead of Vector
+src/controller/view_controller_hotelProm.java:37:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelProm.java:37:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelProm.java:39:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelProm.java:40:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/controller/view_controller_hotelProm.java:41:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelProm.java:46:	Parameter 'promid' is not assigned and could be declared final
+src/controller/view_controller_hotelProm.java:46:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelProm.java:48:	A method should have only one exit point, and that should be the last statement in the method
+src/controller/view_controller_hotelProm.java:48:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelProm.java:48:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelProm.java:50:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelProm.java:51:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/controller/view_controller_hotelProm.java:52:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelchange.java:9:	Each class should declare at least one constructor
+src/controller/view_controller_hotelchange.java:9:	headerCommentRequirement Required
+src/controller/view_controller_hotelchange.java:10:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/controller/view_controller_hotelchange.java:10:	Private field 'vhc' could be made final; it is only initialized in the declaration or constructor.
+src/controller/view_controller_hotelchange.java:10:	fieldCommentRequirement Required
+src/controller/view_controller_hotelchange.java:12:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelchange.java:16:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelchange.java:20:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelchange.java:24:	Parameter 'accredit' is not assigned and could be declared final
+src/controller/view_controller_hotelchange.java:24:	publicMethodCommentRequirement Required
+src/controller/view_controller_hotelchange.java:26:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelchange.java:26:	Potential violation of Law of Demeter (method chain calls)
+src/controller/view_controller_hotelchange.java:28:	Avoid printStackTrace(); use a logger call instead.
+src/controller/view_controller_hotelchange.java:29:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/controller/view_controller_hotelchange.java:30:	Avoid printStackTrace(); use a logger call instead.
+src/factory/hotelui_Od.java:8:	headerCommentRequirement Required
+src/factory/hotelui_Od.java:9:	fieldCommentRequirement Required
+src/factory/hotelui_Od.java:11:	fieldCommentRequirement Required
+src/factory/hotelui_Od.java:12:	publicMethodCommentRequirement Required
+src/factory/hotelui_Od.java:16:	Parameter 'odvo' is not assigned and could be declared final
+src/factory/hotelui_Od.java:16:	publicMethodCommentRequirement Required
+src/factory/hotelui_Prom.java:7:	A class which only has private constructors should be final
+src/factory/hotelui_Prom.java:7:	headerCommentRequirement Required
+src/factory/hotelui_Prom.java:8:	Possible unsafe assignment to a non-final static field in a constructor.
+src/factory/hotelui_Prom.java:8:	fieldCommentRequirement Required
+src/factory/hotelui_Prom.java:10:	fieldCommentRequirement Required
+src/factory/hotelui_Prom.java:11:	publicMethodCommentRequirement Required
+src/factory/hotelui_main.java:11:	A class which only has private constructors should be final
+src/factory/hotelui_main.java:11:	headerCommentRequirement Required
+src/factory/hotelui_main.java:12:	fieldCommentRequirement Required
+src/factory/hotelui_main.java:13:	fieldCommentRequirement Required
+src/factory/hotelui_main.java:14:	fieldCommentRequirement Required
+src/factory/hotelui_main.java:15:	fieldCommentRequirement Required
+src/factory/hotelui_main.java:16:	fieldCommentRequirement Required
+src/factory/hotelui_main.java:17:	fieldCommentRequirement Required
+src/factory/hotelui_main.java:18:	fieldCommentRequirement Required
+src/factory/hotelui_main.java:20:	fieldCommentRequirement Required
+src/factory/hotelui_main.java:21:	Avoid variables with short names like id
+src/factory/hotelui_main.java:21:	fieldCommentRequirement Required
+src/factory/hotelui_main.java:23:	fieldCommentRequirement Required
+src/factory/hotelui_main.java:24:	publicMethodCommentRequirement Required
+src/factory/hotelui_main.java:29:	Avoid using final local variables, turn them into fields
+src/factory/hotelui_main.java:30:	Avoid using final local variables, turn them into fields
+src/factory/hotelui_main.java:40:	Parameter 'hid' is not assigned and could be declared final
+src/factory/hotelui_main.java:40:	publicMethodCommentRequirement Required
+src/factory/hotelui_main.java:55:	Parameter 'hid' is not assigned and could be declared final
+src/factory/hotelui_main.java:55:	Parameter 'userid' is not assigned and could be declared final
+src/factory/hotelui_main.java:55:	publicMethodCommentRequirement Required
+src/logic/Impl/view_hotelbl_Od.java:1:	Package name contains upper case characters
+src/logic/Impl/view_hotelbl_Od.java:10:	Each class should declare at least one constructor
+src/logic/Impl/view_hotelbl_Od.java:10:	headerCommentRequirement Required
+src/logic/Impl/view_hotelbl_Od.java:12:	fieldCommentRequirement Required
+src/logic/Impl/view_hotelbl_Od.java:13:	fieldCommentRequirement Required
+src/logic/Impl/view_hotelbl_Od.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/logic/Impl/view_hotelbl_Od.java:15:	This final field could be made static
+src/logic/Impl/view_hotelbl_Od.java:15:	fieldCommentRequirement Required
+src/logic/Impl/view_hotelbl_Od.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/logic/Impl/view_hotelbl_Od.java:16:	This final field could be made static
+src/logic/Impl/view_hotelbl_Od.java:16:	fieldCommentRequirement Required
+src/logic/Impl/view_hotelbl_Od.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/logic/Impl/view_hotelbl_Od.java:18:	This final field could be made static
+src/logic/Impl/view_hotelbl_Od.java:18:	fieldCommentRequirement Required
+src/logic/Impl/view_hotelbl_Od.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/logic/Impl/view_hotelbl_Od.java:19:	This final field could be made static
+src/logic/Impl/view_hotelbl_Od.java:19:	fieldCommentRequirement Required
+src/logic/Impl/view_hotelbl_Od.java:22:	Parameter 'odvo' is not assigned and could be declared final
+src/logic/Impl/view_hotelbl_Od.java:22:	publicMethodCommentRequirement Required
+src/logic/Impl/view_hotelbl_Od.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/logic/Impl/view_hotelbl_Od.java:37:	publicMethodCommentRequirement Required
+src/logic/Impl/view_hotelbl_Prom.java:1:	Package name contains upper case characters
+src/logic/Impl/view_hotelbl_Prom.java:9:	Each class should declare at least one constructor
+src/logic/Impl/view_hotelbl_Prom.java:9:	headerCommentRequirement Required
+src/logic/Impl/view_hotelbl_Prom.java:11:	fieldCommentRequirement Required
+src/logic/Impl/view_hotelbl_Prom.java:12:	fieldCommentRequirement Required
+src/logic/Impl/view_hotelbl_Prom.java:14:	fieldCommentRequirement Required
+src/logic/Impl/view_hotelbl_Prom.java:15:	fieldCommentRequirement Required
+src/logic/Impl/view_hotelbl_Prom.java:17:	fieldCommentRequirement Required
+src/logic/Impl/view_hotelbl_Prom.java:18:	fieldCommentRequirement Required
+src/logic/Impl/view_hotelbl_Prom.java:28:	publicMethodCommentRequirement Required
+src/logic/Impl/view_hotelbl_Prom.java:30:	Potential violation of Law of Demeter (method chain calls)
+src/logic/Impl/view_hotelbl_Prom.java:36:	publicMethodCommentRequirement Required
+src/logic/Impl/view_hotelbl_change.java:1:	Package name contains upper case characters
+src/logic/Impl/view_hotelbl_change.java:6:	Each class should declare at least one constructor
+src/logic/Impl/view_hotelbl_change.java:6:	headerCommentRequirement Required
+src/logic/Impl/view_hotelbl_change.java:9:	publicMethodCommentRequirement Required
+src/logic/Impl/view_hotelbl_change.java:11:	Potential violation of Law of Demeter (static property access)
+src/logic/Impl/view_hotelbl_change.java:15:	publicMethodCommentRequirement Required
+src/logic/Impl/view_hotelbl_change.java:17:	Potential violation of Law of Demeter (static property access)
+src/logic/Impl/view_hotelbl_change.java:21:	publicMethodCommentRequirement Required
+src/logic/Impl/view_hotelbl_change.java:23:	Potential violation of Law of Demeter (static property access)
+src/logic/Impl/view_hotelbl_change.java:27:	publicMethodCommentRequirement Required
+src/logic/Impl/view_hotelbl_change.java:30:	System.exit() should not be used in J2EE/JEE apps
+src/logic/Impl/view_hotelbl_login.java:1:	Package name contains upper case characters
+src/logic/Impl/view_hotelbl_login.java:10:	Each class should declare at least one constructor
+src/logic/Impl/view_hotelbl_login.java:10:	headerCommentRequirement Required
+src/logic/Impl/view_hotelbl_login.java:12:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/logic/Impl/view_hotelbl_login.java:12:	fieldCommentRequirement Required
+src/logic/Impl/view_hotelbl_login.java:13:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/logic/Impl/view_hotelbl_login.java:13:	This final field could be made static
+src/logic/Impl/view_hotelbl_login.java:13:	fieldCommentRequirement Required
+src/logic/Impl/view_hotelbl_login.java:14:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/logic/Impl/view_hotelbl_login.java:14:	This final field could be made static
+src/logic/Impl/view_hotelbl_login.java:14:	fieldCommentRequirement Required
+src/logic/Impl/view_hotelbl_login.java:17:	publicMethodCommentRequirement Required
+src/logic/Impl/view_hotelbl_login.java:19:	Potential violation of Law of Demeter (method chain calls)
+src/logic/Impl/view_hotelbl_login.java:20:	Potential violation of Law of Demeter (static property access)
+src/logic/Impl/view_hotelbl_login.java:21:	Potential violation of Law of Demeter (static property access)
+src/logic/Impl/view_hotelbl_login.java:22:	Potential violation of Law of Demeter (static property access)
+src/logic/Impl/view_hotelbl_login.java:23:	Potential violation of Law of Demeter (static property access)
+src/logic/Impl/view_hotelbl_login.java:24:	Potential violation of Law of Demeter (static property access)
+src/logic/Impl/view_hotelbl_login.java:25:	Potential violation of Law of Demeter (static property access)
+src/logic/Impl/view_hotelbl_login.java:26:	Potential violation of Law of Demeter (static property access)
+src/logic/Impl/view_hotelbl_login.java:30:	publicMethodCommentRequirement Required
+src/logic/Impl/view_hotelbl_login.java:32:	Potential violation of Law of Demeter (method chain calls)
+src/logic/Impl/view_hotelbl_login.java:33:	Potential violation of Law of Demeter (static property access)
+src/logic/Impl/view_hotelbl_login.java:34:	Potential violation of Law of Demeter (static property access)
+src/logic/Impl/view_hotelbl_login.java:35:	Potential violation of Law of Demeter (static property access)
+src/logic/Impl/view_hotelbl_login.java:36:	Potential violation of Law of Demeter (static property access)
+src/logic/Impl/view_hotelbl_login.java:37:	Potential violation of Law of Demeter (static property access)
+src/logic/Impl/view_hotelbl_login.java:38:	Potential violation of Law of Demeter (static property access)
+src/logic/Impl/view_hotelbl_login.java:39:	Potential violation of Law of Demeter (static property access)
+src/logic/Server/view_hotelserve_Od.java:1:	Package name contains upper case characters
+src/logic/Server/view_hotelserve_Od.java:5:	headerCommentRequirement Required
+src/logic/Server/view_hotelserve_Od.java:7:	Avoid modifiers which are implied by the context
+src/logic/Server/view_hotelserve_Od.java:7:	publicMethodCommentRequirement Required
+src/logic/Server/view_hotelserve_Od.java:9:	Avoid modifiers which are implied by the context
+src/logic/Server/view_hotelserve_Od.java:9:	publicMethodCommentRequirement Required
+src/logic/Server/view_hotelserve_Prom.java:1:	Package name contains upper case characters
+src/logic/Server/view_hotelserve_Prom.java:3:	headerCommentRequirement Required
+src/logic/Server/view_hotelserve_Prom.java:5:	Avoid modifiers which are implied by the context
+src/logic/Server/view_hotelserve_Prom.java:5:	publicMethodCommentRequirement Required
+src/logic/Server/view_hotelserve_Prom.java:7:	Avoid modifiers which are implied by the context
+src/logic/Server/view_hotelserve_Prom.java:7:	publicMethodCommentRequirement Required
+src/logic/Server/view_hotelserve_change.java:1:	Package name contains upper case characters
+src/logic/Server/view_hotelserve_change.java:3:	headerCommentRequirement Required
+src/logic/Server/view_hotelserve_change.java:5:	Avoid modifiers which are implied by the context
+src/logic/Server/view_hotelserve_change.java:5:	publicMethodCommentRequirement Required
+src/logic/Server/view_hotelserve_change.java:7:	Avoid modifiers which are implied by the context
+src/logic/Server/view_hotelserve_change.java:7:	publicMethodCommentRequirement Required
+src/logic/Server/view_hotelserve_change.java:9:	Avoid modifiers which are implied by the context
+src/logic/Server/view_hotelserve_change.java:9:	publicMethodCommentRequirement Required
+src/logic/Server/view_hotelserve_change.java:11:	Avoid modifiers which are implied by the context
+src/logic/Server/view_hotelserve_change.java:11:	publicMethodCommentRequirement Required
+src/logic/Server/view_hotelserve_login.java:1:	Package name contains upper case characters
+src/logic/Server/view_hotelserve_login.java:3:	headerCommentRequirement Required
+src/logic/Server/view_hotelserve_login.java:5:	Avoid modifiers which are implied by the context
+src/logic/Server/view_hotelserve_login.java:5:	publicMethodCommentRequirement Required
+src/logic/Server/view_hotelserve_login.java:7:	Avoid modifiers which are implied by the context
+src/logic/Server/view_hotelserve_login.java:7:	publicMethodCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:6:	Each class should declare at least one constructor
+src/ui/hotel/InputOnlyNum.java:6:	headerCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:8:	Avoid variables with short names like e
+src/ui/hotel/InputOnlyNum.java:8:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/InputOnlyNum.java:8:	publicMethodCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:10:	Local variable 'keyChar' could be declared final
+src/ui/hotel/InputOnlyNum.java:11:	Avoid empty if statements
+src/ui/hotel/InputOnlyNum.java:18:	Avoid variables with short names like e
+src/ui/hotel/InputOnlyNum.java:18:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/InputOnlyNum.java:18:	publicMethodCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:22:	Avoid variables with short names like e
+src/ui/hotel/InputOnlyNum.java:22:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/InputOnlyNum.java:22:	publicMethodCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:27:	Each class should declare at least one constructor
+src/ui/hotel/InputOnlyNum.java:27:	headerCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:29:	Avoid variables with short names like e
+src/ui/hotel/InputOnlyNum.java:29:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/InputOnlyNum.java:29:	publicMethodCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:33:	Avoid variables with short names like e
+src/ui/hotel/InputOnlyNum.java:33:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/InputOnlyNum.java:33:	publicMethodCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:37:	Avoid variables with short names like e
+src/ui/hotel/InputOnlyNum.java:37:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/InputOnlyNum.java:37:	publicMethodCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:42:	Each class should declare at least one constructor
+src/ui/hotel/InputOnlyNum.java:42:	headerCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:44:	Avoid variables with short names like e
+src/ui/hotel/InputOnlyNum.java:44:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/InputOnlyNum.java:44:	publicMethodCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:46:	Local variable 'keyChar' could be declared final
+src/ui/hotel/InputOnlyNum.java:52:	Avoid variables with short names like e
+src/ui/hotel/InputOnlyNum.java:52:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/InputOnlyNum.java:52:	publicMethodCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:56:	Avoid variables with short names like e
+src/ui/hotel/InputOnlyNum.java:56:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/InputOnlyNum.java:56:	publicMethodCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:61:	Each class should declare at least one constructor
+src/ui/hotel/InputOnlyNum.java:61:	headerCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:63:	Avoid variables with short names like e
+src/ui/hotel/InputOnlyNum.java:63:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/InputOnlyNum.java:63:	publicMethodCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:65:	Local variable 'keyChar' could be declared final
+src/ui/hotel/InputOnlyNum.java:66:	Useless parentheses.
+src/ui/hotel/InputOnlyNum.java:67:	Avoid empty if statements
+src/ui/hotel/InputOnlyNum.java:67:	Useless parentheses.
+src/ui/hotel/InputOnlyNum.java:74:	Avoid variables with short names like e
+src/ui/hotel/InputOnlyNum.java:74:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/InputOnlyNum.java:74:	publicMethodCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:78:	Avoid variables with short names like e
+src/ui/hotel/InputOnlyNum.java:78:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/InputOnlyNum.java:78:	publicMethodCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:83:	Each class should declare at least one constructor
+src/ui/hotel/InputOnlyNum.java:83:	headerCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:85:	Avoid variables with short names like e
+src/ui/hotel/InputOnlyNum.java:85:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/InputOnlyNum.java:85:	publicMethodCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:87:	Local variable 'keyChar' could be declared final
+src/ui/hotel/InputOnlyNum.java:88:	Useless parentheses.
+src/ui/hotel/InputOnlyNum.java:89:	Useless parentheses.
+src/ui/hotel/InputOnlyNum.java:90:	Avoid empty if statements
+src/ui/hotel/InputOnlyNum.java:90:	Useless parentheses.
+src/ui/hotel/InputOnlyNum.java:97:	Avoid variables with short names like e
+src/ui/hotel/InputOnlyNum.java:97:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/InputOnlyNum.java:97:	publicMethodCommentRequirement Required
+src/ui/hotel/InputOnlyNum.java:101:	Avoid variables with short names like e
+src/ui/hotel/InputOnlyNum.java:101:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/InputOnlyNum.java:101:	publicMethodCommentRequirement Required
+src/ui/hotel/changeui.java:17:	Avoid unused imports such as 'javax.swing.JLabel'
+src/ui/hotel/changeui.java:22:	The class 'changeui' has a Cyclomatic Complexity of 4 (Highest = 19).
+src/ui/hotel/changeui.java:22:	The class 'changeui' has a Modified Cyclomatic Complexity of 4 (Highest = 19).
+src/ui/hotel/changeui.java:22:	headerCommentRequirement Required
+src/ui/hotel/changeui.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:23:	Private field 'vch' could be made final; it is only initialized in the declaration or constructor.
+src/ui/hotel/changeui.java:23:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:25:	This final field could be made static
+src/ui/hotel/changeui.java:25:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:26:	This final field could be made static
+src/ui/hotel/changeui.java:26:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:27:	This final field could be made static
+src/ui/hotel/changeui.java:27:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:28:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:28:	This final field could be made static
+src/ui/hotel/changeui.java:28:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:30:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:30:	Perhaps 'touxiangP' could be replaced by a local variable.
+src/ui/hotel/changeui.java:30:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:32:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:32:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:33:	Avoid variables with short names like Od
+src/ui/hotel/changeui.java:33:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:33:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:34:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:34:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:35:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:35:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:37:	Avoid using redundant field initializer for 'status_hotel'
+src/ui/hotel/changeui.java:37:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:37:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:38:	Avoid using redundant field initializer for 'status_Od'
+src/ui/hotel/changeui.java:38:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:38:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:39:	Avoid using redundant field initializer for 'status_Prom'
+src/ui/hotel/changeui.java:39:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:39:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:41:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:41:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:42:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:42:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:43:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:43:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:44:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:44:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:45:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:45:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:46:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:46:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:47:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:47:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:48:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:48:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:49:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:49:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:50:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:50:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:51:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/changeui.java:51:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:53:	fieldCommentRequirement Required
+src/ui/hotel/changeui.java:55:	It is a good practice to call super() in a constructor
+src/ui/hotel/changeui.java:55:	publicMethodCommentRequirement Required
+src/ui/hotel/changeui.java:60:	Avoid variables with short names like g
+src/ui/hotel/changeui.java:60:	Parameter 'g' is not assigned and could be declared final
+src/ui/hotel/changeui.java:60:	publicMethodCommentRequirement Required
+src/ui/hotel/changeui.java:62:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/changeui.java:62:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/changeui.java:71:	Local variable 'jpanel' could be declared final
+src/ui/hotel/changeui.java:72:	Avoid variables with short names like g
+src/ui/hotel/changeui.java:72:	Parameter 'g' is not assigned and could be declared final
+src/ui/hotel/changeui.java:72:	publicMethodCommentRequirement Required
+src/ui/hotel/changeui.java:74:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:74:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/changeui.java:74:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/changeui.java:80:	Avoid variables with short names like x
+src/ui/hotel/changeui.java:80:	Local variable 'x' could be declared final
+src/ui/hotel/changeui.java:81:	Avoid variables with short names like y
+src/ui/hotel/changeui.java:81:	Local variable 'y' could be declared final
+src/ui/hotel/changeui.java:82:	Local variable 'button_gap' could be declared final
+src/ui/hotel/changeui.java:94:	Avoid variables with short names like g
+src/ui/hotel/changeui.java:94:	Parameter 'g' is not assigned and could be declared final
+src/ui/hotel/changeui.java:94:	publicMethodCommentRequirement Required
+src/ui/hotel/changeui.java:96:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:96:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/changeui.java:96:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/changeui.java:108:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/changeui.java:109:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/changeui.java:110:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/changeui.java:121:	Avoid really long methods.
+src/ui/hotel/changeui.java:121:	The method 'Buttons' has a Cyclomatic Complexity of 19.
+src/ui/hotel/changeui.java:121:	The method 'Buttons' has a Modified Cyclomatic Complexity of 19.
+src/ui/hotel/changeui.java:124:	The String literal "华文新魏" appears 4 times in this file; the first occurrence is on line 124
+src/ui/hotel/changeui.java:132:	Avoid variables with short names like e
+src/ui/hotel/changeui.java:132:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/changeui.java:132:	publicMethodCommentRequirement Required
+src/ui/hotel/changeui.java:133:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:134:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:134:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:138:	Avoid variables with short names like e
+src/ui/hotel/changeui.java:138:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/changeui.java:138:	publicMethodCommentRequirement Required
+src/ui/hotel/changeui.java:139:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:140:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:140:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:144:	Avoid variables with short names like e
+src/ui/hotel/changeui.java:144:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/changeui.java:144:	publicMethodCommentRequirement Required
+src/ui/hotel/changeui.java:145:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:146:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:147:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:148:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:148:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:149:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:149:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:150:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:150:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:151:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:165:	Avoid variables with short names like e
+src/ui/hotel/changeui.java:165:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/changeui.java:165:	publicMethodCommentRequirement Required
+src/ui/hotel/changeui.java:166:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:167:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:167:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:171:	Avoid variables with short names like e
+src/ui/hotel/changeui.java:171:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/changeui.java:171:	publicMethodCommentRequirement Required
+src/ui/hotel/changeui.java:172:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:173:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:173:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:177:	Avoid variables with short names like e
+src/ui/hotel/changeui.java:177:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/changeui.java:177:	publicMethodCommentRequirement Required
+src/ui/hotel/changeui.java:178:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:179:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:180:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:181:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:181:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:182:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:182:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:183:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:183:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:184:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:197:	Avoid variables with short names like e
+src/ui/hotel/changeui.java:197:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/changeui.java:197:	publicMethodCommentRequirement Required
+src/ui/hotel/changeui.java:198:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:199:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:199:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:203:	Avoid variables with short names like e
+src/ui/hotel/changeui.java:203:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/changeui.java:203:	publicMethodCommentRequirement Required
+src/ui/hotel/changeui.java:204:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:205:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:205:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:209:	Avoid variables with short names like e
+src/ui/hotel/changeui.java:209:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/changeui.java:209:	publicMethodCommentRequirement Required
+src/ui/hotel/changeui.java:210:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:211:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:212:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:213:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:213:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:214:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:214:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:215:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:215:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:216:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:229:	Avoid variables with short names like e
+src/ui/hotel/changeui.java:229:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/changeui.java:229:	publicMethodCommentRequirement Required
+src/ui/hotel/changeui.java:230:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:230:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:234:	Avoid variables with short names like e
+src/ui/hotel/changeui.java:234:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/changeui.java:234:	publicMethodCommentRequirement Required
+src/ui/hotel/changeui.java:235:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:235:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:239:	Avoid variables with short names like e
+src/ui/hotel/changeui.java:239:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/changeui.java:239:	publicMethodCommentRequirement Required
+src/ui/hotel/changeui.java:240:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:240:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/changeui.java:245:	Avoid variables with short names like s
+src/ui/hotel/changeui.java:245:	Parameter 's' is not assigned and could be declared final
+src/ui/hotel/changeui.java:245:	protectedMethodCommentRequirement Required
+src/ui/hotel/list.java:11:	Avoid short class names like list
+src/ui/hotel/list.java:11:	headerCommentRequirement Required
+src/ui/hotel/list.java:13:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/list.java:13:	This final field could be made static
+src/ui/hotel/list.java:13:	fieldCommentRequirement Required
+src/ui/hotel/list.java:14:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/list.java:14:	This final field could be made static
+src/ui/hotel/list.java:14:	fieldCommentRequirement Required
+src/ui/hotel/list.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/list.java:15:	This final field could be made static
+src/ui/hotel/list.java:15:	fieldCommentRequirement Required
+src/ui/hotel/list.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/list.java:16:	This final field could be made static
+src/ui/hotel/list.java:16:	fieldCommentRequirement Required
+src/ui/hotel/list.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/list.java:17:	This final field could be made static
+src/ui/hotel/list.java:17:	fieldCommentRequirement Required
+src/ui/hotel/list.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/list.java:18:	This final field could be made static
+src/ui/hotel/list.java:18:	fieldCommentRequirement Required
+src/ui/hotel/list.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/list.java:19:	This final field could be made static
+src/ui/hotel/list.java:19:	fieldCommentRequirement Required
+src/ui/hotel/list.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/list.java:21:	Perhaps 'OdP' could be replaced by a local variable.
+src/ui/hotel/list.java:21:	fieldCommentRequirement Required
+src/ui/hotel/list.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/list.java:22:	fieldCommentRequirement Required
+src/ui/hotel/list.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/list.java:23:	fieldCommentRequirement Required
+src/ui/hotel/list.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/list.java:24:	fieldCommentRequirement Required
+src/ui/hotel/list.java:25:	Avoid variables with short names like sp
+src/ui/hotel/list.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/list.java:25:	fieldCommentRequirement Required
+src/ui/hotel/list.java:26:	Avoid using implementation types like 'Vector'; use the interface instead
+src/ui/hotel/list.java:26:	Consider replacing this Vector with the newer java.util.List
+src/ui/hotel/list.java:26:	fieldCommentRequirement Required
+src/ui/hotel/list.java:28:	It is a good practice to call super() in a constructor
+src/ui/hotel/list.java:46:	Use ArrayList instead of Vector
+src/ui/hotel/list.java:47:	Consider replacing this Vector with the newer java.util.List
+src/ui/hotel/list.java:47:	Local variable 'info' could be declared final
+src/ui/hotel/list.java:47:	Use ArrayList instead of Vector
+src/ui/hotel/list.java:62:	Avoid instantiating new objects inside loops
+src/ui/hotel/list.java:63:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:63:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:64:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:64:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:64:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:64:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:71:	Avoid instantiating new objects inside loops
+src/ui/hotel/list.java:72:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:72:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:73:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:73:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:80:	Avoid instantiating new objects inside loops
+src/ui/hotel/list.java:82:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:82:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:84:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:84:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:85:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:85:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:88:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:88:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:88:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:89:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:89:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:89:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:90:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:90:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:91:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:91:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:97:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:98:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/list.java:98:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/promotionlistui.java:33:	headerCommentRequirement Required
+src/ui/hotel/promotionlistui.java:35:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:42:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:43:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/promotionlistui.java:43:	This final field could be made static
+src/ui/hotel/promotionlistui.java:43:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:44:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/promotionlistui.java:44:	This final field could be made static
+src/ui/hotel/promotionlistui.java:44:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:45:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/promotionlistui.java:45:	This final field could be made static
+src/ui/hotel/promotionlistui.java:45:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:46:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/promotionlistui.java:46:	This final field could be made static
+src/ui/hotel/promotionlistui.java:46:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:47:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/promotionlistui.java:47:	This final field could be made static
+src/ui/hotel/promotionlistui.java:47:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:48:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:50:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/promotionlistui.java:50:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:52:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:54:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:55:	Avoid using implementation types like 'Vector'; use the interface instead
+src/ui/hotel/promotionlistui.java:55:	Consider replacing this Vector with the newer java.util.List
+src/ui/hotel/promotionlistui.java:55:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:56:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:57:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:59:	Avoid using implementation types like 'Vector'; use the interface instead
+src/ui/hotel/promotionlistui.java:59:	Consider replacing this Vector with the newer java.util.List
+src/ui/hotel/promotionlistui.java:59:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:59:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:60:	Avoid using implementation types like 'Vector'; use the interface instead
+src/ui/hotel/promotionlistui.java:60:	Consider replacing this Vector with the newer java.util.List
+src/ui/hotel/promotionlistui.java:60:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:60:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:61:	Avoid using implementation types like 'Vector'; use the interface instead
+src/ui/hotel/promotionlistui.java:61:	Consider replacing this Vector with the newer java.util.List
+src/ui/hotel/promotionlistui.java:61:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:61:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:62:	Avoid using implementation types like 'Vector'; use the interface instead
+src/ui/hotel/promotionlistui.java:62:	Consider replacing this Vector with the newer java.util.List
+src/ui/hotel/promotionlistui.java:62:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:62:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:63:	Avoid using implementation types like 'Vector'; use the interface instead
+src/ui/hotel/promotionlistui.java:63:	Consider replacing this Vector with the newer java.util.List
+src/ui/hotel/promotionlistui.java:63:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:63:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:65:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/promotionlistui.java:65:	Private field 'jpanelU' could be made final; it is only initialized in the declaration or constructor.
+src/ui/hotel/promotionlistui.java:65:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:66:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/promotionlistui.java:66:	Private field 'jpanelC' could be made final; it is only initialized in the declaration or constructor.
+src/ui/hotel/promotionlistui.java:66:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:68:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:69:	Possible unsafe assignment to a non-final static field in a constructor.
+src/ui/hotel/promotionlistui.java:69:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:71:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/promotionlistui.java:71:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:72:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/promotionlistui.java:72:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:73:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/promotionlistui.java:73:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:75:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/promotionlistui.java:75:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:76:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/promotionlistui.java:76:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:77:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ui/hotel/promotionlistui.java:77:	fieldCommentRequirement Required
+src/ui/hotel/promotionlistui.java:79:	Avoid variables with short names like id
+src/ui/hotel/promotionlistui.java:79:	It is a good practice to call super() in a constructor
+src/ui/hotel/promotionlistui.java:79:	Parameter 'id' is not assigned and could be declared final
+src/ui/hotel/promotionlistui.java:79:	publicMethodCommentRequirement Required
+src/ui/hotel/promotionlistui.java:85:	Avoid variables with short names like g
+src/ui/hotel/promotionlistui.java:85:	Parameter 'g' is not assigned and could be declared final
+src/ui/hotel/promotionlistui.java:85:	publicMethodCommentRequirement Required
+src/ui/hotel/promotionlistui.java:87:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/promotionlistui.java:87:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/promotionlistui.java:100:	Avoid variables with short names like x
+src/ui/hotel/promotionlistui.java:100:	Local variable 'x' could be declared final
+src/ui/hotel/promotionlistui.java:101:	Avoid variables with short names like y
+src/ui/hotel/promotionlistui.java:101:	Local variable 'y' could be declared final
+src/ui/hotel/promotionlistui.java:125:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/promotionlistui.java:138:	Local variable 'kindOfOd' could be declared final
+src/ui/hotel/promotionlistui.java:143:	Avoid variables with short names like e
+src/ui/hotel/promotionlistui.java:143:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/promotionlistui.java:143:	publicMethodCommentRequirement Required
+src/ui/hotel/promotionlistui.java:144:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:145:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:145:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/promotionlistui.java:145:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/promotionlistui.java:146:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:146:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:146:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:149:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:149:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/promotionlistui.java:149:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/promotionlistui.java:150:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:150:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:150:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:152:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:152:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:153:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:154:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:161:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:169:	Avoid using Literals in Conditional Statements
+src/ui/hotel/promotionlistui.java:170:	Consider replacing this Vector with the newer java.util.List
+src/ui/hotel/promotionlistui.java:170:	Found 'DD'-anomaly for variable 'promvo' (lines '170'-'171').
+src/ui/hotel/promotionlistui.java:170:	Found 'DD'-anomaly for variable 'promvo' (lines '170'-'171').
+src/ui/hotel/promotionlistui.java:170:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:172:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:173:	Local variable 'promvo2' could be declared final
+src/ui/hotel/promotionlistui.java:173:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:174:	Avoid instantiating new objects inside loops
+src/ui/hotel/promotionlistui.java:174:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:175:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:176:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:177:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:178:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:179:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:182:	Found 'DD'-anomaly for variable 'promvo' (lines '182'-'183').
+src/ui/hotel/promotionlistui.java:182:	Found 'DD'-anomaly for variable 'promvo' (lines '182'-'183').
+src/ui/hotel/promotionlistui.java:182:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:184:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:185:	Local variable 'promvo2' could be declared final
+src/ui/hotel/promotionlistui.java:185:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:186:	Avoid instantiating new objects inside loops
+src/ui/hotel/promotionlistui.java:186:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:187:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:188:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:189:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:190:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:191:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:198:	Parameter 'column' is not assigned and could be declared final
+src/ui/hotel/promotionlistui.java:198:	Parameter 'row' is not assigned and could be declared final
+src/ui/hotel/promotionlistui.java:198:	publicMethodCommentRequirement Required
+src/ui/hotel/promotionlistui.java:204:	Local variable 'tcr' could be declared final
+src/ui/hotel/promotionlistui.java:207:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/promotionlistui.java:208:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/promotionlistui.java:214:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/promotionlistui.java:216:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/promotionlistui.java:230:	Avoid using final local variables, turn them into fields
+src/ui/hotel/promotionlistui.java:231:	Avoid using final local variables, turn them into fields
+src/ui/hotel/promotionlistui.java:232:	Avoid using final local variables, turn them into fields
+src/ui/hotel/promotionlistui.java:233:	Avoid using final local variables, turn them into fields
+src/ui/hotel/promotionlistui.java:244:	Avoid variables with short names like e
+src/ui/hotel/promotionlistui.java:244:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/promotionlistui.java:244:	publicMethodCommentRequirement Required
+src/ui/hotel/promotionlistui.java:245:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:246:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:258:	Avoid variables with short names like e
+src/ui/hotel/promotionlistui.java:258:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/promotionlistui.java:258:	publicMethodCommentRequirement Required
+src/ui/hotel/promotionlistui.java:259:	An empty statement (semicolon) not part of a loop
+src/ui/hotel/promotionlistui.java:259:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:259:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:263:	Avoid variables with short names like e
+src/ui/hotel/promotionlistui.java:263:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/promotionlistui.java:263:	publicMethodCommentRequirement Required
+src/ui/hotel/promotionlistui.java:264:	An empty statement (semicolon) not part of a loop
+src/ui/hotel/promotionlistui.java:264:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:264:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:268:	Avoid variables with short names like e
+src/ui/hotel/promotionlistui.java:268:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/promotionlistui.java:268:	publicMethodCommentRequirement Required
+src/ui/hotel/promotionlistui.java:282:	Avoid variables with short names like e
+src/ui/hotel/promotionlistui.java:282:	Parameter 'e' is not assigned and could be declared final
+src/ui/hotel/promotionlistui.java:282:	publicMethodCommentRequirement Required
+src/ui/hotel/promotionlistui.java:283:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:283:	Local variable 'row' could be declared final
+src/ui/hotel/promotionlistui.java:284:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:284:	Local variable 'promid' could be declared final
+src/ui/hotel/promotionlistui.java:284:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/promotionlistui.java:285:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ui/hotel/promotionlistui.java:294:	Local variable 'numOfOdInfor' could be declared final
+src/ui/hotel/promotionlistui.java:296:	Local variable 'Column' could be declared final
+src/ui/hotel/promotionlistui.java:296:	Potential violation of Law of Demeter (method chain calls)
+src/ui/hotel/promotionlistui.java:298:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:299:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:300:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:303:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:304:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:305:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:308:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:309:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:310:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:315:	Local variable 'tableHeader' could be declared final
+src/ui/hotel/promotionlistui.java:316:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:319:	Avoid variables with short names like s
+src/ui/hotel/promotionlistui.java:319:	Parameter 's' is not assigned and could be declared final
+src/ui/hotel/promotionlistui.java:319:	protectedMethodCommentRequirement Required
+src/ui/hotel/promotionlistui.java:323:	protectedMethodCommentRequirement Required
+src/ui/hotel/promotionlistui.java:324:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:325:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:326:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:327:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:328:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:330:	Avoid using Literals in Conditional Statements
+src/ui/hotel/promotionlistui.java:331:	Consider replacing this Vector with the newer java.util.List
+src/ui/hotel/promotionlistui.java:331:	Found 'DD'-anomaly for variable 'promvo' (lines '331'-'332').
+src/ui/hotel/promotionlistui.java:331:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:333:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:334:	Local variable 'promvo2' could be declared final
+src/ui/hotel/promotionlistui.java:334:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:335:	Avoid instantiating new objects inside loops
+src/ui/hotel/promotionlistui.java:335:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:336:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:337:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:338:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:339:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:340:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:343:	Found 'DD'-anomaly for variable 'promvo' (lines '343'-'344').
+src/ui/hotel/promotionlistui.java:343:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:345:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:346:	Local variable 'promvo2' could be declared final
+src/ui/hotel/promotionlistui.java:346:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:347:	Avoid instantiating new objects inside loops
+src/ui/hotel/promotionlistui.java:347:	Use ArrayList instead of Vector
+src/ui/hotel/promotionlistui.java:348:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:349:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:350:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:351:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:352:	Potential violation of Law of Demeter (object not created locally)
+src/ui/hotel/promotionlistui.java:358:	Avoid using Literals in Conditional Statements
+src/ui/hotel/promotionlistui.java:365:	Avoid unused private methods such as 'clear()'.
+src/ui/hotel/promotionlistui.java:366:	Assigning an Object to null is a code smell.  Consider refactoring.
+src/ui/hotel/promotionlistui.java:367:	Assigning an Object to null is a code smell.  Consider refactoring.
+src/ui/hotel/promotionlistui.java:368:	Assigning an Object to null is a code smell.  Consider refactoring.
+src/ui/hotel/promotionlistui.java:369:	Assigning an Object to null is a code smell.  Consider refactoring.
+src/ui/hotel/promotionlistui.java:370:	Assigning an Object to null is a code smell.  Consider refactoring.
+src/vo/PromvoForHotel.java:5:	Each class should declare at least one constructor
+src/vo/PromvoForHotel.java:5:	headerCommentRequirement Required
+src/vo/PromvoForHotel.java:8:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/vo/PromvoForHotel.java:8:	fieldCommentRequirement Required
+src/vo/PromvoForHotel.java:9:	fieldCommentRequirement Required
+src/vo/PromvoForHotel.java:10:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/vo/PromvoForHotel.java:10:	fieldCommentRequirement Required
+src/vo/PromvoForHotel.java:11:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/vo/PromvoForHotel.java:11:	fieldCommentRequirement Required
+src/vo/PromvoForHotel.java:12:	Avoid using redundant field initializer for 'discount'
+src/vo/PromvoForHotel.java:12:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/vo/PromvoForHotel.java:12:	fieldCommentRequirement Required
+src/vo/PromvoForHotel.java:13:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/vo/PromvoForHotel.java:13:	fieldCommentRequirement Required
+src/vo/PromvoForHotel.java:15:	Avoid variables with short names like s
+src/vo/PromvoForHotel.java:15:	Parameter 's' is not assigned and could be declared final
+src/vo/PromvoForHotel.java:15:	publicMethodCommentRequirement Required
+src/vo/PromvoForHotel.java:19:	Avoid variables with short names like s
+src/vo/PromvoForHotel.java:19:	Parameter 's' is not assigned and could be declared final
+src/vo/PromvoForHotel.java:19:	publicMethodCommentRequirement Required
+src/vo/PromvoForHotel.java:23:	Avoid variables with short names like s
+src/vo/PromvoForHotel.java:23:	Parameter 's' is not assigned and could be declared final
+src/vo/PromvoForHotel.java:23:	publicMethodCommentRequirement Required
+src/vo/PromvoForHotel.java:27:	Avoid variables with short names like s
+src/vo/PromvoForHotel.java:27:	Parameter 's' is not assigned and could be declared final
+src/vo/PromvoForHotel.java:27:	publicMethodCommentRequirement Required
+src/vo/PromvoForHotel.java:31:	Avoid variables with short names like n
+src/vo/PromvoForHotel.java:31:	Parameter 'n' is not assigned and could be declared final
+src/vo/PromvoForHotel.java:31:	publicMethodCommentRequirement Required
+src/vo/PromvoForHotel.java:35:	Avoid variables with short names like s
+src/vo/PromvoForHotel.java:35:	Parameter 's' is not assigned and could be declared final
+src/vo/PromvoForHotel.java:35:	publicMethodCommentRequirement Required
+src/vo/PromvoForHotel.java:39:	publicMethodCommentRequirement Required
+src/vo/PromvoForHotel.java:43:	publicMethodCommentRequirement Required
+src/vo/PromvoForHotel.java:47:	publicMethodCommentRequirement Required
+src/vo/PromvoForHotel.java:51:	publicMethodCommentRequirement Required
+src/vo/PromvoForHotel.java:55:	publicMethodCommentRequirement Required
+src/vo/PromvoForHotel.java:59:	publicMethodCommentRequirement Required
